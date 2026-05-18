@@ -53,8 +53,5 @@ Examples of techniques used in the workbook:
 | State of largest land-area CBG | Alaska |
 | Alameda County, CA to District of Columbia distance | 3,903.24 km |
 
-## Preview
-![Excel Transformation Cover](images/excel-transformation-cover.png)
-
 ## Note
 This project was completed as a Skills Based Assessment for a Data Engineering and Integration course. It is included here to showcase Excel based data transformation, lookup logic, and reporting preparation skills.
